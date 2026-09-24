@@ -54,7 +54,7 @@ Since P(S1) > P(S2), the bigram language model prefers S1.
 
 ## Files
 
-- `Homework2_Bigram_Language_Model.ipynb` — Jupyter Notebook containing the implementation and output.
+- `bigram_model-checkpoint.ipynb` — Jupyter Notebook containing the implementation and output.
 - `README.md` — Description of the assignment, implementation, and results.
 
 ## How to Run
